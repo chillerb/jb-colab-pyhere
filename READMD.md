@@ -13,3 +13,7 @@ jupyter-book build .
 To view the book locally, open [_build/html/index.html](_build/html/index.html) in your browser.
 
 If you launch the `demo.ipynb` notebook in Google Colab, `pyhere` will fail to detect a project root.
+
+![launch colab](figures/launch_on_colab.png)
+
+![in colab](figures/colab.png)
